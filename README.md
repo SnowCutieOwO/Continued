@@ -10,4 +10,7 @@ Translated resources public repository.
 希望火种不会灭。有你们而更精彩。
 
 ## 贡献人员 Contributor
-None
+
+* [RaymondChang1204](https://github.com/RaymondChang1204)：
+  * BlackJack (Wiki)
+  * HardcoreSeasons (Wiki)
