@@ -308,7 +308,7 @@ Gives the player a special MyWorlds item which can be used to create nether port
 **myworlds.world.evacuate**
 
 
-# 17允许和拒绝怪物生成
+# 17.允许和拒绝怪物生成
 ```yml
 /world allowspawn [mobname] [worldname]
 /world allowspawn [mobname]
@@ -359,7 +359,7 @@ Gives the player a special MyWorlds item which can be used to create nether port
 **myworlds.world.weather**
 
 
-# 20.Game mode游戏模式
+# 20.游戏模式
 ```yml
 /world gamemode [mode] [worldname]
 /world gamemode [mode]
