@@ -15,7 +15,6 @@
 第一步是创建你想在服务器上使用的新世界。有两种方法可以创建世界，我们将分别列出。
 
 ## 4.1创建原版世界
-To create normal/nether/flat/the_end worlds, you can use the commands:
 你可以使用命令创建 普通/下界/超平坦/末地 世界：
 ```yml
 /world create worldname_environment(::options) (seed)
