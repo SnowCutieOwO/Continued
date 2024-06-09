@@ -81,6 +81,11 @@ Translated resources public repository.
 * 主页：若有，将插件维基的主页译文置入此页，此页若不存在侧边栏，则固定命名为 `home.md`
 * 正文章节：文章的正常目录结构
 
+### 其他信息
+
+* 针对外文译文，章节的文件名称尽量保持原文。
+* 对于原创文章，章节文件只需在目录中显示为中文即可，其他内容需使用英文，必要时可使用拼音，但切忌同一份文章中出现两种交错使用的情况。
+
 ### 附加信息
 
 #### 翻译信息
@@ -97,5 +102,5 @@ Translated resources public repository.
 最后校对：最后编辑修改的时间，精确到日即可    
 翻译字数：文章全文包括目录在内的字数统计    
 
-> [!TIPS]
+> [!TIP]
 > [Continue 后台仓库](https://www.github.com/SnowCutieOwO/snowcutieowo.github.io)中包含了一个用于计算维基字数的 `.py` 脚本，名为 `hiCount`。
