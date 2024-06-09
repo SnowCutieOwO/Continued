@@ -44,6 +44,7 @@ Translated resources public repository.
 ### 更新格式
 
 标题：`Updated [文件名称.文件后缀]`
+
 正文：N/A
 
 * 建议使用英文
