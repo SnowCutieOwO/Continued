@@ -1,6 +1,9 @@
 # Continued
 Translated resources public repository.
 
+> [!IMPORTANT]
+> Continued 现已与主仓库合并，因此该仓库进入归档状态。
+
 ## 介绍 Introduction
 
 因为 MCBBS 挂了，所以要在这里放上之前 MCBBS 里面的资源。
